@@ -12,9 +12,9 @@ A full description in Persian is also included.
 
 ## Data
 - Load data
-  <img src="Pictures/Load_Data.png" alt="Diag" width="600" height="400"/>
+  <img src="Pictures/Load_Data.png" alt="LD" width="200" height="100"/>
 - Generation data
-  <img src="Pictures/Generation_Data.png" alt="Diag" width="600" height="400"/>
+  <img src="Pictures/Generation_Data.png" alt="GD" width="200" height="100"/>
 - Line and transformer data
-  <img src="Pictures/Line_and_Transformer_Data.png" alt="Diag" width="600" height="400"/>
+  <img src="Pictures/Line_and_Transformer_Data.png" alt="LTD" width="200" height="100"/>
 
